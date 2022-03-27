@@ -9,7 +9,7 @@ I am a web designer, and interested in web animations!
 - 📫 How to reach me: [hung.co24@gmail.com](mailto:hung.co24@gmail.com)
 - ⚡ Fun fact: My name "Mue", abbreviations of "Muriel", comes from a [book](https://www.amazon.com/World-Famous-Muriel-Sue-Alexander/dp/0316031313)
 
-<br />
+<!-- <br />
 
 ### 🔨 Languages and Tools:
 
@@ -24,4 +24,4 @@ I am a web designer, and interested in web animations!
 </a>
 
 
-<br />
+<br /> -->
