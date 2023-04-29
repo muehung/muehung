@@ -9,8 +9,6 @@ I am a web designer, recently became a front-end developer. Bless me!
 - 📫 How to reach me: [hung.co24@gmail.com](mailto:hung.co24@gmail.com)
 - ⚡ Fun fact: My name "Mue", abbreviations of "Muriel", comes from a [book](https://www.amazon.com/World-Famous-Muriel-Sue-Alexander/dp/0316031313)
 
-<!-- <br />
-
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML" target="_blank">
  <img align="left" src="https://raw.githubusercontent.com/muehung/muehung/main/icons/html.svg" alt="html" height="42px"/>
@@ -33,5 +31,3 @@ I am a web designer, recently became a front-end developer. Bless me!
 <a href="https://www.figma.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/muehung/muehung/main/icons/figma.svg" alt="figma" height="42px"/>
 </a>
-
-<br /> -->
