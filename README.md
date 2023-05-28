@@ -1,4 +1,4 @@
-### Hello 👋 I'm Mue Hung from Taiwan!
+### Hello 👋 I'm Cheryl Hung from Taiwan!
 
 I am a web designer, recently became a front-end developer. Bless me!
 
@@ -7,7 +7,6 @@ I am a web designer, recently became a front-end developer. Bless me!
 ### More about me:
 
 - 📫 How to reach me: [hung.co24@gmail.com](mailto:hung.co24@gmail.com)
-- ⚡ Fun fact: My name "Mue", abbreviations of "Muriel", comes from a [book](https://www.amazon.com/World-Famous-Muriel-Sue-Alexander/dp/0316031313)
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML" target="_blank">
