@@ -1,9 +1,5 @@
 ### Hello 👋 I'm Cheryl Hung from Taiwan!
 
-I am a web designer, recently became a front-end developer. Bless me!
-
-<br />
-
 ### More about me:
 
 - 📫 How to reach me: [hung.co24@gmail.com](mailto:hung.co24@gmail.com)
